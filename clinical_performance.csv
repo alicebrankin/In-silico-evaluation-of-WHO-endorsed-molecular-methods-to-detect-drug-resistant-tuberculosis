@@ -1,0 +1,35 @@
+﻿Test,Drug,Sensitivity,Specificty
+RealTime MTB RIF/INH,INH,88.3,94.3
+RealTime MTB RIF/INH,RIF,94.8,100
+BD MAX MDR-TB,INH,82,100
+BD MAX MDR-TB,RIF,90,95
+FluoroType MTBDR (V2),INH,94.3,99.5
+FluoroType MTBDR (V2),RIF,98.5,98.6
+GenoType MTBDRsl Ver 1.0,AMI,91.3,100
+GenoType MTBDRsl Ver 1.0,CAP,83,100
+GenoType MTBDRsl Ver 1.0,LEV,89.6,98
+GenoType MTBDRsl Ver 1.0,MXF,89.6,98
+GenoType MTBDRsl Ver 1.0,KAN,59.5,100
+GenoType MTBDRsl Ver 2.0,AMI,91.3,100
+GenoType MTBDRsl Ver 2.0,CAP,83,100
+GenoType MTBDRsl Ver 2.0,LEV,94.8,98
+GenoType MTBDRsl Ver 2.0,MXF,94.8,98
+GenoType MTBDRsl Ver 2.0,KAN,90.5,94.3
+GenoType MTBDRplus Ver 2.0,INH,89.4,98.9
+GenoType MTBDRplus Ver 2.0,RIF,91.3,98
+INNO-LiPA Rif. TB,RIF,97,100
+Genoscholar NTM+MDRTB detection kit 2,INH,89.9,99.4
+Genoscholar NTM+MDRTB detection kit 2,RIF,92.4,97.5
+Genoscholar PZA-TB II,PZA,98.9,91.8
+cobas MTB-RIF/INH,INH,76.6,100
+cobas MTB-RIF/INH,RIF,88.4,97.6
+TrueNat MTB/Rif,RIF,84,97
+Xpert MTB/RIF,RIF,95.3,98.8
+Xpert MTB/XDR,AMI,73,100
+Xpert MTB/XDR,LEV,94,99
+Xpert MTB/XDR,MXF,94,99
+Xpert MTB/XDR,ETH,54,100
+Xpert MTB/XDR,INH,94,100
+Xpert MTB/XDR,CAP,61,100
+Xpert MTB/XDR,KAN,86,98
+Xpert MTB/RIF Ultra,RIF,94.9,99.1
